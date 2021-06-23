@@ -1,0 +1,5 @@
+.content{
+  display: grid;
+  grid-template-columns: 60% 40%;
+  grid-template-rows: 11.4rem 1fr; /*espaço entre o logo e a imagem ela definiu o espaço de cima e aplicou q o restante é uma fração*/
+}
